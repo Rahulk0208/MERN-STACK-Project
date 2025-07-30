@@ -1,0 +1,23 @@
+#heading1{
+    color: royalblue;
+    justify-content: center;
+    text-align: center;
+    margin-left: 180px;
+    height: 50px;
+}
+#para1{
+    color: seagreen;
+    margin-top: 180px;
+    height: 50px;
+    justify-content: center;
+    text-align: center;
+   
+}
+#card1{
+    display: flex;
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 400px;
+    width: 450px;
+    margin-left: 400px;
+}
